@@ -3,3 +3,12 @@ Vous êtes amené à devoir négocier et vous ne savez pas comment aborder le pr
 
 ## Prendre confiance en sa capacité à négocier
 ![confiance](images/confianceensoi.png)
+## Comprendre les motivations des deux parties
+### Offre de depart
+![offre](images/offre.png)
+### Objectif de depart
+![objectif](images/objectif.png)
+### Enjeu
+![enjeu](images/enjeu.png)
+### Comment identifier l'objectif et l'enjeu du client
+![client](images/identifierobjectifetenjeu.png)
