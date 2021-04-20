@@ -12,3 +12,6 @@ Vous êtes amené à devoir négocier et vous ne savez pas comment aborder le pr
 ![enjeu](images/enjeu.png)
 ### Comment identifier l'objectif et l'enjeu du client
 ![client](images/identifierobjectifetenjeu.png)
+
+## Analyser et quantifier le rapport de force
+![points](images/points.png)
